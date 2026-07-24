@@ -5,8 +5,8 @@ function Nav() {
     <nav className="navbar navbar-expand-lg navbar-light bg-light mb-3">
       <div className="container">
 
-        <a className="navbar-brand " href="#">
-          <img src={logo} alt="" />
+        <a className="navbar-brand " href="/">
+          <img src={logo} alt="fact" />
         </a>
 
         <button 
@@ -24,27 +24,27 @@ function Nav() {
           <ul className="navbar-nav ms-auto">
 
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 Home
               </a>
             </li>
 
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 Sobre
               </a>
             </li>
 
 
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 Serviços
               </a>
             </li>
 
 
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 Contacto
               </a>
             </li>
