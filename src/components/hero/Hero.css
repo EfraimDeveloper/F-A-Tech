@@ -1,0 +1,18 @@
+.hero {
+    /* min-height: 90vh;
+    display: flex;
+    align-items: center;
+    background: #f8f9fa; */
+    background-image:url("../../assets/image/Fundo.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+.hero h1 {
+    color: #212529;
+}
+
+.hero p {
+    color: #6c757d;
+}

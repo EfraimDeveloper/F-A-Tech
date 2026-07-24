@@ -1,0 +1,715 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100..900&family=Outfit:wght@100..900&display=swap');
+body {font-family: 'Outfit','Noto Sans Thai', sans-serif; font-size:16px;font-weight:400;color:#808790}
+
+/*******************************************************
+Recent Articles
+********************************************************/
+#main-section-729 h2.Title a{font-size:20px;margin:20px 0;}
+#main-section-729 h4{font-size:16px;color:#f48220}
+
+/*******************************************************
+Web Development
+********************************************************/
+#main-section-26623 .section-header h2{font-size:6rem;color:#fff;z-index:999;position:relative;margin:0;padding:0;margin:auto}
+#main-section-26623 .section-header h4{font-size:20px;color:#fff;z-index:999;position:relative;margin:10px auto;padding:0;text-align:center;background:transparent}
+#main-section-26623 .section-header{background-image: url(/Content/Archive/47/Thailand-Programmer-820391.jpg);background-repeat: no-repeat;background-position:top;background-size:cover;padding:25% 0 50px;position:relative;overflow:hidden;text-align:center;margin:0 0 50px}
+#main-section-26623 .section-header .pre-header:before {border-top: 0px solid #ddd}
+#main-section-26623 .section-header:before {content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background: linear-gradient(180deg, #0e0e0e, rgba(4, 9, 40, 0.3) 0%);
+}
+
+/*******************************************************
+Logo design
+********************************************************/
+.grid figcaption {background:transparent !important;text-align:center}
+.grid figcaption h4{font-size:1rem !important}
+
+/****************************************************************************
+By Jorge
+*****************************************************************************/
+h1, h2, h3 {margin:20px 0 10px;font-weight:500;color:#353c5b;line-height:1.2em}
+h4, h5, h6 {font-family: 'Outfit','Noto Sans Thai', sans-serif;margin:10px 0;font-weight:400;color:#353c5b;}
+h1{ font-size:42px; letter-spacing:1px}
+h2 { font-size: 30px }
+h3 { font-size: 24px }
+h4 { font-size:1.25rem}
+h5 { font-size: 16px }
+h6 { font-size: 14px }
+h2.Title {font-size:22px;margin:10px 0} 
+h3.Title a{font-size:22px;text-decoration:none} 
+h4.pre-header{font-size:18px;padding:5px 0;margin:0;color:#f58220;letter-spacing:1px;}
+h2.PreHeading{font-size:18px;padding:0;margin:10px 0;color:#f58220;letter-spacing:1px;}
+p{font-family: 'Outfit','Noto Sans Thai', sans-serif;font-size:16px;font-weight:400;margin:0 0 20px 0}
+.Body p{font-size:18px;font-weight:400;margin:0 0 20px;letter-spacing:0.5px}
+.Body li{font-size:18px;font-weight:400;line-height:1.6em;color:#353c5b;}
+.article-item h2.Title{font-weight:600}
+.Body h2{font-size:2.5rem;margin:20px 0 20px;font-weight:600}
+.Body h3{font-size:1.8rem;margin:20px 0 20px;font-weight:500}
+.Body h4{font-size:1.25rem;margin:1rem 0}
+.ArticleBody p{font-size:18px;}
+.ArticleBody li{font-size:18px;line-height:2em}
+h2.col.ArticleTitle{font-size:42px}
+strong{color:#353c5b;font-weight:600}
+a strong:hover{color:#ff7a38}
+a:link,a:visited,a:active {color: #353c5b;transition: all 0.2s ease;}
+a:hover { color: #ff7a38;text-decoration:underline}
+.ArticleDetails{padding:5% 0;overflow:hidden}
+label{font-size:16px;font-weight:600;padding:0 0 5px}
+ul.icon{ padding: 0; list-style: none;}
+.icon li {font-size:18px;padding:0 0 10px;line-height:1.4em}
+.icon i{font-size:20px;color:#f48120;margin:0 10px 0 0;vertical-align:middle;width:1.25rem;text-align:center}
+.ImageCover .Image > span, .ImageCover span[style="background: url(/Content/no-image.jpg)"] {padding-top: 65%  !important;border-radius:5px; display: block;background-size: cover !important;background-position: center center !important;}
+
+h2.Title a{font-size:24px;margin:20px 0;text-decoration:none}
+a.Image:hover{opacity:0.75;transition:0.3s}
+a.btn:hover{text-decoration:none;background:#f48220;}
+.btn:hover, a.btn:hover{background:#ef6f00;color:#fff}
+
+a.readmore{position:relative;border:solid 1px #f48220;color:#353c5b;font-weight:600;font-size:13px;text-transform:uppercase;text-align:center;width:fit-content;height:36px;line-height:33px;border-radius:30px;text-decoration:none;padding:0px 35px 0px 15px;margin:20px 0 0 0;display:block}
+a.readmore:hover{background:#f48220;border:solid 1px #f48220;color:#fff !important;padding:0px 45px 0px 15px;}
+a.readmore:after { content: ""; position: absolute; width: 5px; height: 5px; border-top: 1px solid #f48220; border-right: 1px solid #f48220; transform: rotate(45deg); margin: auto; top: 0; bottom: 0; right: 15px }
+a.readmore:before { content: ""; position: absolute; width: 12px; height: 1px; border-top: 1px solid #f48220; margin: auto; top: 0; bottom: 0; right: 15px }
+a.readmore:hover:after {border-top: 1px solid #fff; border-right: 1px solid #fff;}
+a.readmore:hover:before{border-top: 1px solid #fff; border-right: 1px solid #fff;width: 16px;}
+
+a.readmore-2{background:#fff;font-size:20px;font-weight:700;letter-spacing:2px;padding:0px 60px 0px 25px;margin:40px auto 0;position:relative;border:solid 2px #f48220;color:#353c5b;text-transform:uppercase;text-align:center;width:fit-content;height:50px;line-height:46px;border-radius:60px;text-decoration:none;display:block}
+a.readmore-2:hover{background:#f48220;border:solid 2px #f48220;color:#fff !important;padding:0px 70px 0px 25px;}
+a.readmore-2:after { content: ""; position: absolute; width: 10px; height: 10px; border-top: 2px solid #f48220; border-right: 2px solid #f48220; transform: rotate(45deg); margin: auto; top: 0; bottom: 0; right:25px }
+a.readmore-2:before { content: ""; position: absolute; width:20px; height: 1px; border-top: 2px solid #f48220; margin: auto; top: 0; bottom: 0; right: 25px }
+a.readmore-2:hover:after {border-top: 2px solid #fff; border-right: 2px solid #fff;}
+a.readmore-2:hover:before{border-top: 2px solid #fff; border-right: 2px solid #fff;width:26px;}
+
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #f48220;
+    --bs-btn-border-color: #f48220;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #ff3c1b;
+    --bs-btn-hover-border-color: #ff3c1b;
+    --bs-btn-focus-shadow-rgb: 49,132,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #f48220;
+    --bs-btn-active-border-color: #f48220;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #555;
+    --bs-btn-disabled-border-color: #555;
+    text-transform:unset;
+    font-size:16px;
+    letter-spacing:1px;
+    border-radius:50px
+}
+
+.section-header .col-12 h2.title{font-size:3.5rem;font-weight:600;margin:20px 0 20px 0;}
+.section-header h2.title{font-size:3.5rem;font-weight:600;margin:0 0 20px 0}
+.section-header .col-12 { position: relative;}
+.section-header .pre-header {font-size:18px;letter-spacing:3px;color:#f58220;background: #fff; display: inline-block; margin:0;padding:0 20px 10px 0px;text-transform:uppercase}
+.section-header .pre-header:before { content: ""; position: absolute; width: calc(100% - 24px); border-top: 1px solid #ddd; top: 12px; z-index: -1; right: 0}
+
+.ImageCover{margin:0 0 20px}
+.ImageCover .Image > span{border-radius:10px;}
+.ImageCover .Image {border-radius:10px;overflow: hidden;display: block;position: relative}
+.ImageCover .Image > span { position: absolute; height: 100%; width: 100%; top: 0; left: 0; display: block; transition: background-size 0.3s ease, transform 0.3s ease !important; }
+.ImageCover .Image > span:hover { transform: scale(1.1)}
+
+
+/*Slide front page
+**********************************/
+#section-26649 .carousel-caption{font-size:1.5rem;font-weight:600}
+#section-26649 .carousel-caption a{font-size:1.5rem;font-weight:600;color:#fff}
+#section-26649 .carousel-caption a:hover{color:#f58220;text-decoration:none;}
+
+/*******************************************************
+Header
+********************************************************/
+header{background:#fff;box-shadow:0 10px 20px rgba(0,0,0,0.07);}
+.home-page header{box-shadow:0 10px 20px rgba(0,0,0,0);}
+
+/*Logo
+**********************************/
+.Logo img{height:70px;float:left !important;margin:0 8px 0 0;padding:8px 0}
+.Logo h1{margin:0 !important;padding:25px 0 0;font-size:15px !important;letter-spacing:0.5px}
+.Logo a{text-decoration:none}
+
+/*******************************************************
+Menu
+********************************************************/
+#section-section-25578{padding:0}
+.navbar{background:transparent;margin:5px 0 0;}
+a.nav-link{font-size:15px;color:#353c5b !important;font-weight:400;letter-spacing:0px;text-decoration:none !important;padding:8px 10px !important}
+a.nav-link:hover{color:#f58220 !important}
+a.nav-link.active{color:#f58220 !important;font-weight:600}
+.navbar-nav .nav-link.active{color:#0938a9}
+.navbar-expand-lg .navbar-nav .dropdown-menu{top:45px;border-radius:10px;box-shadow:0 5px 20px rgba(0,0,0,0.1);border:none}
+.dropdown-menu{background:#fff;padding:10px 10px;}
+a.dropdown-item{font-size:14px;color:#111 !important;padding:5px 10px;text-decoration:none !important}
+a.dropdown-item:hover{color:#111 !important;background:#f5f5ff;text-decoration:none;border-radius:0px}
+.dropdown-item.active, .dropdown-item:active {background-color:#dee2e6;}
+
+
+/*LanguagePanel
+***************************************/
+.LanguagePanel{padding:20px 0 0;text-align:right}
+.LanguagePanel a {padding: 0px 40px 0px 0px !important;background-size:24px !important;background-position: right 10px center !important;text-decoration:none;letter-spacing:0.5px;font-size:15px}
+
+/*****************************************
+Extra Class V3
+******************************************/
+.Ban-con{border-top:solid 5px #f48220; border-bottom:solid 5px #f48220}
+.Ban-con h1{font-size:3.5em;font-weight:800}
+.Ban-con h3{font-size:4vh;font-weight:500;color:#f48220}
+.Ban-con p{font-size:1.5em;}
+
+/*****************************************
+Product V3
+******************************************/
+.product-details-panel{padding:3rem 0}
+.product-list-item{margin:0.75rem 0}
+#productImagesCarouselFade .carousel-item .product-details-slide-image img, #productImagesCarouselFade .carousel-item .product-details-slide-image iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    max-height: 720px;
+}
+
+#productImagesCarouselFade .carousel-item div.img-link{
+	z-index:9999 !important;
+	position:absolute;
+	right:1rem;
+	top:1rem;
+	background:rgba(255,255,255,0.4);
+	border-radius:50%;
+	transition:0.2s
+}
+#productImagesCarouselFade .carousel-item div.img-link:hover{background:rgba(255,255,255,0.7);scale:1.1}
+#productImagesCarouselFade .carousel-item {height: 600px}
+
+/*****************************************
+Homepage V3
+******************************************/
+
+/*Realestate Website
+******************************/
+#main-section-25616{background-image: url(/Content/Archive/47/aaa-773436.png);background-position:bottom center;padding:4% 5%;background-size:contain;background-repeat:no-repeat;background-color:#f5f5ff}
+#main-section-25616 .col-lg-7 p{margin:0}
+#article-108357 .col-lg-5 h2{margin:0 0 10px 0;}
+#article-108357 .Body p{margin:0;}
+#article-108357 h1{font-size:48px;font-weight:700}
+#article-108357 h1 strong{color:#f58220}
+#article-108357 h3{margin:10px 0}
+
+/*Website Services
+******************************/
+#main-section-26615 .Body h2{font-size:22px;margin:10px 0}
+#section-26615 p:first-child:before {
+    top: -10px;
+    left: -10px;
+    padding: 10px;
+    box-shadow: 0 0 0 5px #f58220;
+    -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+    -webkit-transform: scale(.8);
+    -moz-transition: -moz-transform 0.2s, opacity 0.2s;
+    -moz-transform: scale(.8);
+    -ms-transform: scale(.8);
+    transition: transform 0.2s, opacity 0.2s;
+    transform: scale(.8);
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    content: '';
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+#section-26615 p:first-child {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.1);
+    -webkit-transition: background 0.2s, color 0.2s;
+    -moz-transition: background 0.2s, color 0.2s;
+    transition: background 0.2s, color 0.2s;
+    display: inline-block;
+    padding: 20px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    color: #fff;
+}
+
+#section-26615 p:first-child:hover {background: rgba(244, 245, 255,1)}
+
+#section-26615 p:first-child:hover:before {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+}
+
+#section-26615 img{transform: scale(1);transition:0.1s}
+#section-26615 img:hover{transform: scale(0.95);}
+
+/*Web Design Service
+******************************/
+
+
+/*Graphic Design
+******************************/
+#section-26621 .ImageCover .Image > span{padding-top:120%  !important;border-radius:10px;}
+#section-26621 .ImageCover .Image { border-radius:10px; overflow: hidden; padding-top:120%; display: block; position: relative }
+#section-26621 .ImageCover .Image > span { position: absolute; height: 100%; width: 100%; top: 0; left: 0; display: block; transition: background-size 0.3s ease, transform 0.3s ease !important; }
+#section-26621 .ImageCover .Image > span:hover { transform: scale(1.1); }
+#main-section-26621{background-image: url(/Content/Archive/47/Dot-771658.png);background-position:top center;}
+#main-section-26621 .section-header .pre-header:before {border-top: 0px solid #ddd;}
+#main-section-26621 h2.Title a{font-size:16px;font-weight:300;color:#fff;background:#f58220;width:fit-content;padding:20px 25px;position:relative;top:-40px;left:30px;overflow:hidden;border-radius:70px}
+#main-section-26621 h2.Title a:hover{background:#1d2442;top:-55px;left:30px;box-shadow:5px 5px 10px rgba(0,0,0,0.3)}
+#article-109242 h2.Title a{background:#f58220}
+#article-109245 h2.Title a{background:#d53ad8}
+#article-109246 h2.Title a{background:#56c265}
+#article-109247 h2.Title a{background:#4c59a7}
+
+
+
+/*Career opportunities
+******************************/
+#main-section-26510{padding:5% 5%}
+#article-109113 p{margin:0}
+#section-section-26512 .Ingress p{margin:0 0 10px}
+#section-section-26512 h2.Title a{text-decoration:none}
+#section-section-26512 .article-list-read-all{padding:30px 0}
+#main-section-26510 .section-header .row { position: relative }
+#main-section-26510 .section-header .col-12 {position: absolute;right: 0;transform: rotate(90deg);width: auto;}
+#main-section-26510 .section-header .col-12 .title { position: absolute; width: 600px;font-size:66px;font-weight:700;padding:0px 0px 0 20px}
+
+/*****************************************
+Logo Design
+******************************************/
+#main-section-26506 .grid figcaption{display:none}
+#main-section-26506 figcaption h4{margin:0;padding:0;text-align:right;font-size:15px;font-weight:600;}
+#main-section-26506 .slideshow figure{border:solid 30px #fff !important}
+#main-section-26506 .grid-gallery .slideshow li img {width:100% !important}
+
+
+/*****************************************
+Brochure Design
+******************************************/
+#article-109779 i{font-size:2rem;color:#f58220;height:4rem;padding:0.5rem}
+#article-109779 p{margin:0}
+
+/*****************************************
+Realestate Agent Website
+******************************************/
+#main-section-25593{background-image: url(/Content/Archive/47/bg-2.svg);background-repeat:no-repeat;background-position:top center;background-size:cover}
+.content{background:#fff;border-radius:50px 50px 50px 50px;box-shadow:0 0 40px rgba(0,0,0,0.1);}
+.content h2{margin:0 0 20px}
+.content p{font-size:22px;}
+#main-section-25591{background-image: url(/Content/Archive/47/bg.svg);background-repeat:no-repeat;background-position:center;}
+#main-section-25590{background-image: url(/Content/Archive/47/bg-2.svg);background-repeat:no-repeat;background-position:top right;background-size:contain;}
+
+#main-section-25590 h2 strong{color:#f88113}
+#main-section-25590 p{font-size:22px}
+#main-section-25589 h1, #main-section-25593 h1{font-size:90px;}
+#main-section-25589 h1 strong, #main-section-25593 h1 strong{color:#f88113;margin:0 0 40px}
+#main-section-25589 p{margin:0}
+#main-section-25588 {background: rgb(242,108,22);background: linear-gradient(325deg, rgba(242,108,22,1) 2%, rgba(255,159,13,1) 100%);padding:5% 0;text-align:center}
+#main-section-25588 p{margin:0}
+#main-section-25588 h1{font-size:60px;color:#fff;margin:0 0 40px}
+#main-section-25588 .btn{background:transparent;border:solid 2px #fff;border-radius:50px;padding:0 40px}
+#main-section-25588 .btn:hover{background:#111 !important;border:solid 2px #111;}
+#main-section-25588 .btn a{color:#fff;padding:0px;font-size:18px;height:60px !important}
+
+.content .btn {color:#fff;padding:0 30px;height:50px;line-height:45px;}
+.content .btn a{color:#fff;padding:0px;font-size:18px;height:60px !important}
+.content .btn a:hover{text-decoration:none}
+.content p.btn{margin:0;}
+
+
+/*Unlock the Power
+******************************/
+#main-section-25587 h3{font-size:20px;margin:20px 0 10px}
+#main-section-25587 p{font-size:16px;margin:0px 0 0px}
+#main-section-25587 img{height:100px}
+
+
+/*Fully Functional Website
+******************************/
+#footer-section-25582{background:#222;color:#ccc}
+#footer-section-25582 h4.pre-header{text-align:center;font-size:40px;letter-spacing:2px;color:#fff}
+#footer-section-25582 .section-header h2{text-align:center;font-size:20px;}
+#footer-section-25582 h2{font-size:26px;color:#fff}
+#footer-section-25582 p{margin:0;font-size:18px}
+#footer-section-25582 .article-item{padding:4% 8%}
+#footer-section-25582 img{margin:0 0 20px 0}
+
+/*HOSTING-GROUP
+******************************/
+#section-section-25585 h3{font-size:16px;margin:20px 0 10px}
+#article-108290 p{padding:0 20% 0 0;}
+#article-108290 ul{margin:0;padding:0}
+#article-108290 li {list-style:none;position:relative;padding:0 0 0 15px;line-height:1.8em}
+#article-108290 li a:before { content: '';position: absolute;border-right:1px solid #fb702f;border-bottom:1px solid #fb702f;width:5px;height:5px;top: 50%;left: 0;transform: translateY(-50%) rotate(-45deg)}
+
+
+/*We can create the website your business needs
+*****************************************************/
+#article-109253{background-image: url(/Content/Archive/47/Dot-771658.png); background-position:top center;}
+#article-109253{padding:8% 10%}
+#article-109253 h1{font-size:7vh;font-weight:800}
+#article-109253 h2{font-size:54px;margin:0 0 20px 0;line-height:1.1em}
+#article-109253 h2 strong{color:#f58220}
+#article-109253 h3{font-size:18px;margin:20px 20px}
+
+.icon p:first-child:before {
+    top: -5px;
+    left: -5px;
+    padding:5px;
+    box-shadow: 0 0 0 5px #f58220;
+    -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+    -webkit-transform: scale(.8);
+    -moz-transition: -moz-transform 0.2s, opacity 0.2s;
+    -moz-transform: scale(.8);
+    -ms-transform: scale(.8);
+    transition: transform 0.2s, opacity 0.2s;
+    transform: scale(.8);
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    content: '';
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.icon p:first-child {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.1);
+    -webkit-transition: background 0.2s, color 0.2s;
+    -moz-transition: background 0.2s, color 0.2s;
+    transition: background 0.2s, color 0.2s;
+    display: inline-block;
+    padding:10px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    color: #fff;
+	margin:0
+}
+
+.icon p:first-child:hover {background: rgba(255, 255, 255,1)}
+.icon p:first-child:hover:before {transform: scale(1);opacity: 1}
+.icon img{transform: scale(1);transition:0.1s}
+.icon img:hover{transform: scale(0.9);}
+#article-109253 a.readmore{font-size:16px;letter-spacing:1px;padding:10px 45px 10px 20px;}
+
+/*******************************************************
+Webdesign
+********************************************************/
+#main-section-26657 .section-header h2{font-size:6rem;color:#fff;z-index:999;position:relative;margin:0;padding:0;margin:auto}
+#main-section-26657 .section-header h4{font-size:20px;color:#fff;z-index:999;position:relative;margin:10px auto;padding:0;text-align:center;background:transparent}
+#main-section-26657 .section-header{background-image: url(/Content/Archive/47/Web-design-3-826101.jpg);background-repeat: no-repeat;background-position:center;background-size:cover;padding:25% 0 50px;position:relative;overflow:hidden;text-align:center;margin:0 0 50px}
+#main-section-26657 .section-header .pre-header:before {border-top: 0px solid #ddd}
+#main-section-26657 .section-header:before {content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    background: linear-gradient(180deg, #0e0e0e, rgba(4, 9, 40, 0.2) 0%);
+}
+
+.step{padding:50px 0 0}
+.step h1{color:#eee;font-size:7.5rem;font-weight:700;margin:0;line-height:1em;float:left}
+.step p{padding:10px 0 0 160px;line-height:1.4em}
+
+#article-1048 ul { padding: 0; list-style: none;}
+#article-1048 li {font-size:18px;padding:0 0 20px;line-height:1.4em}
+#article-1048 i{font-size:18px;color:#f58220;margin:5px 10px 20px 0;vertical-align:middle;width:1.25rem;text-align:center;float:left}
+
+/*******************************************************
+Footer
+********************************************************/
+#section-25586{padding:0 5%;}
+#footer-section-25584 .Ingress p{margin:0 0 20px}
+#footer-section-25584 {padding:2% 5% 0;}
+#footer-section-25576 {padding:2% 5% 3% 5%;}
+
+/*Testimonial
+******************************/
+#footer-section-26655{padding:5%;background-image: url(/Content/Archive/47/map-world-775253.png);background-repeat:no-repeat;background-position:center;background-size:60%;background-color:#f5f5ff;}
+#footer-section-26655 .section-header .pre-header {background:transparent}
+#section-25579 h2.Title{font-size:15px;background-image: url(/Content/Archive/691/star-685064.png); background-repeat:no-repeat;background-position:top left;padding:30px 0 0}
+#section-25579 .article-item{background-image: url(/Content/Archive/47/quote-694078.png); background-repeat:no-repeat;background-position:top 20px left 50px;border-radius:3px;}
+#section-25579 img{max-height:120px;border-radius:50%;border:solid 8px #fff;margin:0 0 20px 30px;box-shadow:0 10px 10px rgba(0,0,0,0.15);}
+#article-109258.article-item h2.Title{font-size:18px;font-weight:400;text-transform:uppercase;margin:0 0 20px;letter-spacing:1px}
+
+/*We are experts
+*************************/
+#footer-section-25586{background: #ed6700;background: linear-gradient(90deg, rgba(237, 103, 0, 1) 0%, rgb(255 132 29) 51%, rgb(255 132 29) 100%);}
+#footer-section-25586 h1{padding:10% 15% 5% 0;color:#fff}
+#footer-section-25586 p{margin:0}
+#footer-section-25586 .btn{background:#f8a128 !important;margin:0 20px 0 0;border-radius:50px !important;min-width:180px;transition:0.1s}
+#footer-section-25586 .btn:hover{background:#ff8806 !important;box-shadow:5px 5px 20px rgba(0,0,0,0.2);scale:1.05}
+#footer-section-25586 .btn:nth-child(2){background:#49c30a !important}
+#footer-section-25586 .btn:nth-child(2):hover{background:#40a60c !important}
+#footer-section-25586 .btn a{color:#fff;text-decoration:none}
+#footer-section-25586 i{color:#fff ;margin:0 10px 0 0}
+#footer-section-25586 .fa-line:before{color:#fff}
+#footer-section-25586 .text-lg-end img{max-height:500px}
+
+/*Contact information
+*************************/
+#footer-section-25584 h2{font-size:20px;text-transform:uppercase;letter-spacing:1px;margin:0 0 20px}
+
+/*Follow us
+*************************/
+#article-108281 ul { padding: 0; list-style: none;}
+#article-108281 li { font-size:0px;margin:0; padding:0;display:inline-block;text-align:center}
+#article-108281 li{ line-height:20px; position:relative;}
+#article-108281 i{font-size:32px;color:#211259;margin:0 5px 0 0;display:inline-block;vertical-align:top;border:solid 0px #ddd;border-radius:5px;transition:0.2s;width:40px;height:40px;line-height:40px}
+#article-108281 i:hover{transform: scale(1.1)}
+.fa-line:before{color:#49c30a}
+.fa-youtube:before{color:#ff0000}
+.fa-square-instagram:before{color:#333}
+.fa-square-facebook:before{color:#0d51d6}
+.fa-square-google-plus:before{color:#dc4e41}
+.fa-linkedin:before{color:#007bb5}
+.line img{height:140px;margin:30px 0 0}
+
+/*Copyright and policy
+*************************/
+#footer-section-25576 p{margin:0}
+#article-108276{text-align:right}
+
+
+
+/**************************************
+Contact us page
+***************************************/
+.contact-us ul { padding: 0; list-style: none;}
+.contact-us li {font-size:18px;padding:0 0 10px;line-height:1.4em;color:#353c5b;}
+.contact-us i{font-size:18px;color:#353c5b;margin:0 10px 0 0;vertical-align:middle;width:1.25rem;text-align:center}
+.contact-us h4{font-weight:600}
+#article-78444 iframe{height:30vw}
+#article-78444 p{margin:0}
+#contactForm{background:#fff;box-shadow:0 0 20px rgba(0,0,0,0.1);padding:50px;border-radius:10px}
+textarea.form-control{margin:0 0 20px;min-height:12vh}
+#contactForm .form-group{margin:0 0 15px}
+#contactForm label{font-weight:500;font-size:16px;color:#131b2a}
+
+/**Team
+***************************/
+#main-section-25598 .ImageCover .Image {padding-top:120%;}
+.team ul { padding: 0; list-style: none;}
+.team li {padding:5px 0 5px;line-height:1.4em}
+.team i{font-size:17px;color:#f58220;margin:0 7px 0 0;vertical-align:middle;width:1.25rem;text-align:center}
+.team li a{font-size:15px;font-weight:500}
+.team h2{font-size:20px;font-weight:700;}
+.team h3{font-size:15px;margin:0 0 10px}
+.team img{transition:0.2s;}
+.team img:hover{scale:1.05;filter: grayscale(0);}
+.team p{margin:0}
+
+
+/*FAQ and support
+****************************/
+#main-section-27135{background:#f5f5ff;background-image: url(/Content/Archive/814/Faq-808565.jp);background-repeat: no-repeat;background-position:top right;background-size:contain;}
+#section-27136{background:#fff;padding:40px;border-radius:20px;margin:30% 0 0 0}
+#faqList{background:#fff;padding:1rem 2rem;border-radius:20px;}
+.accordion-button:not(.collapsed) {color:#fff;background-color:#ff7a38;box-shadow:none}
+h2.accordion-header{margin:0px 0}
+.accordion-button{font-size:1.25rem;line-height:1.2em; font-weight:600; color:#353c5b;background:#fff;padding:30px 15px;margin:5px 0}
+.accordion-button:hover{background:#fff;color:#ff7a38;}
+
+/**************************************
+Contact us page
+***************************************/
+#CustomFormDetail{background:#fff;box-shadow:0 0 20px rgba(0,0,0,0.1);padding:30px 50px 50px 50px;border-radius:10px}
+#CustomFormDetail h5{font-weight:600;font-size:22px;margin:20px 0 10px}
+.CustomFormGroup{width:44%;display:inline-block;vertical-align:top;margin:0 2.5%}
+.CustomFormButton{text-align:center;margin:40px 0 0}
+
+
+/**************************************
+READY-MADE WEBSITE
+***************************************/
+.ProductDetails{text-align:right;position:absolute;bottom:1.2rem;right:1.5rem}
+.product-item{position:relative;transition:0.2s}
+.product-item:hover{scale:1.05;box-shadow:0 10px 30px rgba(0,0,0,0.2);border-radius:20px}
+.productDescription p{margin:0}
+span.Value.data-price{font-weight:600;font-size:20px;color:#353c5b}
+span.ExVat.Vat{font-size:16px;font-weight:400;color:#808790}
+.ProductInfo{padding:2rem;box-shadow:0 10px 20px rgba(0,0,0,0.1);border-radius:20px}
+.ProductInfo h4{margin:0;padding:0}
+.ProductInfo i{color:#ff7a38;margin:0 8px 0 0}
+.productListName{margin:0}
+.product-image img{border-radius:20px 20px 0 0}
+
+.new {
+ position:absolute;
+ right:20px;
+ top:20px;
+ z-index: 1;
+ overflow: hidden;
+ width:60px; 
+ height:60px; 
+ text-align: center;
+ border-radius:50%;
+ color:#fff;
+ font-weight:700;
+ text-transform:uppercase;
+ line-height:60px;
+ box-shadow:3px 3px 20px rgba(0,0,0,0.65);
+ background: rgb(255 108 27); background: linear-gradient(130deg, rgb(255 148 52) 30%, rgb(255 59 4) 100%);
+}
+
+/*Real estate agent website - monthly
+***************************************/
+.icon-realestate img{max-height:100px}
+
+
+@media screen and (max-width:991px) {
+
+/*******************************
+By Jorge Mobile
+********************************/
+.section-header h2.title {font-size:2rem;margin: 0 0 20px 0}
+.section-header .col-12 h2.title {font-size:1.6rem;margin: 0px 0 20px 0;letter-spacing:1px;}
+.section-header .pre-header {font-size:16px;letter-spacing:1px;}
+a.readmore-2{background:#fff;font-size:16px}
+	
+/*******************************
+Homepage Mobile V3
+********************************/	
+#article-109253 h1 {font-size:2rem}
+#article-109253 h2{font-size:36px;}
+
+
+/*Career opportunities Mobile
+*********************************/
+#main-section-26510 .section-header .col-12 {right: -30px}
+#main-section-26510 .section-header .col-12 .title {font-size:28px;letter-spacing:5px;width:400px}
+#article-109113 p{margin:0 0 20px}
+	
+/*Language menu Mobile
+********************************/
+#Section25599 {position: absolute;right:50px;top:20px;padding:0 0 0;}
+  
+/*******************************
+Header Mobile
+********************************/
+.Logo img {height:50px;margin: 5px 5px 5px 0;padding:0}
+.Logo h1 {padding:20px 0 0;font-size: 16px !important;margin:0;letter-spacing:0 !important}    
+    
+/*******************************
+Menu Mobile
+********************************/
+#section-section-26243{padding:0;margin:0}
+.menu-list-wrapper .navbar-toggler {right: 10px;border: solid 2px #ccc}
+.menu-list-wrapper .navbar-toggler span i {background: #111}
+.navbar-light .navbar-nav .nav-link {font-size:20px;}
+a.nav-link{color:#131b2a !important;padding:10px 10px}
+a.nav-link:hover{color:#ff3c1b  !important}
+.navbar-expand-lg {margin: 0;padding: 0;width: 100%}
+.menu-list-wrapper .navbar-collapse ul {padding:5px 10px;}
+.menu-list-wrapper .navbar-collapse ul li a {white-space: wrap;padding-left: 10px;}
+.menu-list-wrapper .navbar-collapse li {word-break: break-word;}
+a.dropdown-item{font-size:18px;color:#131b2a !important;padding:7px 15px;text-decoration:none;word-break: break-word;}
+.dropdown-menu{background:#fff;padding:10px 10px;}
+#nav-item-14870 {background: url(/Content/Archive/780/tel-688771.png) no-repeat center right 10px;padding: 0 30px 0 0;background-size: 15px;margin:0}
+
+/*Sub menu
+***********************/
+.menu-list-wrapper .navbar-collapse ul { position: absolute; z-index:9999;right: 0px; top: 0px;height: 100vh; transform:translateX(100%); -webkit-transform:translateX(100%) }
+.navbar-nav{background:#f5f5ff}
+.menu-list-wrapper .navbar-collapse {position: absolute; right: 0px; top: 0px; height: 100vh;overflow: hidden; background: rgba(255,255,255,0.0)}
+.menu-list-wrapper .navbar-collapse.collapsing { height: 100vh !important; width: 100vw }
+.menu-list-wrapper .navbar-collapse.show {width: 100%;background: rgba(255,255,255,0.95)}
+
+/*************************
+By Jorge Mobile
+**************************/
+.section-body-inner h2.Title {font-size:26px;margin:10px 0}
+h1.Title:before {width:35%;}
+h1.Title {font-size:28px}
+	
+/*Homepage Mobile
+***************************/
+
+/**********************************
+Content mobile
+***********************************/
+	
+/*******************************************************
+Footer Mobile
+********************************************************/
+footer{padding:30px 0 0}
+#article-108290 p{padding:0}
+.line img{;margin:0 0 0}
+#section-section-25581{text-align:center}
+	
+/*Copyright mobile
+***************************/
+#footer-section-25576{text-align:center;padding:0 20px}
+#article-108276{text-align:center;padding:20px 0}
+
+}
+
+
+@media screen and (min-width:769px) {
+	#article-107966 h1 {font-size:24px;padding:20px;}
+}
+
+@media (min-width: 992px){
+#section-section-25019.col-lg-7 {width:56% !important;}
+.categoryDescription p {font-size: 16px}
+}
+
+@media screen and (min-width:1025px) {
+	.Logo h2 {font-size: 18px;padding:20px 0 0;}
+	 #article-107966 h1 {font-size:32px;padding:30px;}
+
+}
+
+@media screen and (min-width:1281px) {
+	#article-107966 h1 {font-size: 40px;padding: 30px;}
+}
+
+@media screen and (min-width:1361px) {
+	.Logo h2 {font-size:20px;padding:30px 0 0;}
+	#article-107966 h1 {font-size: 45px;padding: 40px;}
+}
+
+
+// X-Small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {...}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) {...}
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {...}
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) {...}

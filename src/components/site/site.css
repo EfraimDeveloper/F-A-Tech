@@ -1,0 +1,13 @@
+.site{
+    background:
+        linear-gradient(
+            to bottom,
+            rgba(255,255,255,0) 50%,
+            rgba(255,255,255,.4) 75%,
+            rgba(255,255,255,1) 100%
+        ),
+        url("../../assets/image/background.png");
+
+    background-size: cover;
+    background-position: center;
+}
