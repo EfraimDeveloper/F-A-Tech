@@ -3,7 +3,7 @@ import image2 from "../assets/image/Web-Development-icon-768986.png";
 import image3 from "../assets/image/App-Development-icon-768984.png";
 import image4 from "../assets/image/icon-Domain-Registration-768962.png";
 import image5 from "../assets/image/services host.png";
-import image6 from "../assets/image/SEOt-icon-768985.png";cls
+import image6 from "../assets/image/SEOt-icon-768985.png";
 
 const websiteServices = [
   {
