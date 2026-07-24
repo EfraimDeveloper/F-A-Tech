@@ -1,6 +1,6 @@
 import services from "../../Data/services";
 
-export default function Services({}) {
+export default function Services() {
         return (
     <section className="container py-5">
       <div className="text-center mb-5">
