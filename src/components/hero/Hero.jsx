@@ -59,10 +59,11 @@ function Hero() {
                                 </div>
         
                         <div className="mt-4">
-
-                            <button className="btn btn-primary btn-lg me-3">
-                             Vamos Começar!
-                            </button>
+                                < a href="#contact">
+                                    <button className="btn btn-primary btn-lg me-3" >
+                                    Vamos Começar!
+                                    </button>
+                                </a>
 
                             {/* <button className="btn btn-outline-dark btn-lg">
                                 Contacte-nos

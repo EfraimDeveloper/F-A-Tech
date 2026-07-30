@@ -1,16 +1,17 @@
 import websiteServices from "../../Data/websiteServices";
-
+import "./WebsiteServices.css";
 export default function WebsiteServices() {
 
   return (
-    <section className="container py-5">
+    <div className="background">
+    <section className="container py-5 ">
 
       <div className="text-center mb-5">
         <h5 className="text-primary">
           SITE TOTALMENTE FUNCIONAL
         </h5>
 
-        <h2 className="fw-bold">
+        <h2 className="fw-bold text-start">
           Serviços de Website
         </h2>
       </div>
@@ -26,7 +27,7 @@ export default function WebsiteServices() {
 
               <div className="card-body">
                 
-              <img src={service.img} alt={service.img} />
+              <img src={service.img} alt={service.img} className="service-img" />
                
                 <h4 className="text-primary">
                   {service.title}
@@ -51,5 +52,6 @@ export default function WebsiteServices() {
       </div>
 
     </section>
+    </div>
   );
 }

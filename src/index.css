@@ -1,9 +1,11 @@
 body {
-
-
+    font-family: 'Inter', sans-serif;
+    color: #1f2937;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1, h2, h3, h4 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.5px;
 }
+

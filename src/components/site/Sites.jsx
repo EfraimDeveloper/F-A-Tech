@@ -8,10 +8,10 @@ export default function Sites() {
           {/* Não mexer nesta coluna */}
           <div className="col-sm-6">
            <img
-  src="https://files.expub.net/Content/Archive/47/Realestate-Webdesign-pattaya-823614.png"
-  alt="Site Imobiliário"
-  className="img-fluid"
-/>
+          src="https://files.expub.net/Content/Archive/47/Realestate-Webdesign-pattaya-823614.png"
+          alt="Site Imobiliário"
+          className="img-fluid"
+        />
           </div>
 
           <div className="col-sm-6">
@@ -57,10 +57,11 @@ export default function Sites() {
                 apresentação de propriedades e gestão de anúncios.
               </p>
             </div>
-
-            <button className="btn btn-primary btn-lg mt-3">
+            <a href="#contact">
+            <button className="btn btn-primary btn-lg mb-3">
               VAMOS COMEÇAR!
             </button>
+            </a>
           </div>
 
         </div>

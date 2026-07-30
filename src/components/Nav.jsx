@@ -1,4 +1,4 @@
-import React from "react";
+import { Link } from "react-router-dom";
 import logo from "../assets/image/Logo.png";
 function Nav() {
   return (
@@ -24,27 +24,23 @@ function Nav() {
           <ul className="navbar-nav ms-auto">
 
             <li className="nav-item">
-              <a className="nav-link" href="/">
-                Home
-              </a>
+           <Link className="nav-link" to="/">Home</Link>
             </li>
 
             <li className="nav-item">
-              <a className="nav-link" href="/">
-                Sobre
-              </a>
+              <Link className="nav-link" to="/sobre">Sobre</Link>
             </li>
 
 
             <li className="nav-item">
-              <a className="nav-link" href="/">
+              <Link className="nav-link" to="/service">
                 Serviços
-              </a>
+              </Link>
             </li>
 
 
             <li className="nav-item">
-              <a className="nav-link" href="/">
+              <a className="nav-link" href="#contact">
                 Contacto
               </a>
             </li>
