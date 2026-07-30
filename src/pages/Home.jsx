@@ -1,7 +1,7 @@
 import Hero from'../components/hero/Hero';
 import Carousel from '../components/Carousel/Carousel';
 import Services from '../components/service/Services';
-import WebsiteServices from '../components/service/WebsiteServices';
+
 import Sites from '../components/site/Sites';
 import Plans from '../components/plans/Plans'
 import Apresent from '../components/apresent/Apresents';
