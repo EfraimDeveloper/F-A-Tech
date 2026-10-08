@@ -65,6 +65,7 @@ export default function Footer() {
 
                         <div className="social">
 
+<<<<<<< Updated upstream
                             <a href="https://www.facebook.com/share/193e26GffU/" target="_bank" rel="noopener noreferrer">
                                 <i className="fa-brands fa-facebook"></i>
                             </a>
@@ -82,6 +83,25 @@ export default function Footer() {
                             </a>
 
                             <a href="https://api.whatsapp.com/send/?phone=244927168971&text&type=phone_number&app_absent=0" target="_bank" rel="noopener noreferrer">
+=======
+                            <a href="https://www.facebook.com/share/193e26GffU/" target="_bank" rel="noreferrer">
+                                <i className="fa-brands fa-facebook"></i>
+                            </a>
+
+                            <a href="https://pt.linkedin.com/in/efraim-marcelino-68119a345/pt" target="_bank" rel="noreferrer">
+                                <i className="fa-brands fa-linkedin"></i>
+                            </a>
+
+                            <a href="https://pt.linkedin.com/in/efraim-marcelino-68119a345/pt" target="_bank" rel="noreferrer">
+                                <i className="fa-brands fa-instagram"></i>
+                            </a>
+
+                            <a href="https://www.tiktok.com/@fatech_tecnologiainfolda?_r=1&_t=ZS-98SmlOva6z6" target="_bank" rel="noreferrer">
+                                <i className="fa-brands fa-tiktok"></i>
+                            </a>
+
+                            <a href="https://api.whatsapp.com/send/?phone=244927168971&text&type=phone_number&app_absent=0" target="_bank" rel="noreferrer">
+>>>>>>> Stashed changes
                                 <i className="fa-brands fa-whatsapp"></i>
                             </a>
 
