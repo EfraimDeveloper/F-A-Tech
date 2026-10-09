@@ -1,11 +1,9 @@
 .hero {
-    /* min-height: 90vh;
-    display: flex;
-    align-items: center;
-    background: #f8f9fa; */
-    background-image:url("../../assets/image/Fundo.jpg");
+      background-image:url("../../assets/image/Fundo.jpg");
     background-size: cover;
     background-position: center;
+  
+  
 
 }
 
